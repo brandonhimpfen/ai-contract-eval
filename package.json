@@ -1,0 +1,38 @@
+{
+  "name": "ai-contract-eval",
+  "version": "0.1.0",
+  "description": "A lightweight evaluation layer for AI systems with structured cases, checks, and summaries.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "llm",
+    "evaluation",
+    "ai infrastructure",
+    "contracts",
+    "testing",
+    "benchmarking",
+    "ai systems",
+    "inference",
+    "structured outputs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhimpfen/ai-contract-eval.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/ai-contract-eval/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/ai-contract-eval#readme",
+  "author": "Brandon Himpfen",
+  "license": "MIT"
+}
