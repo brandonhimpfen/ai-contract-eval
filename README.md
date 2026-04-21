@@ -1,5 +1,7 @@
 # ai-contract-eval
 
+[![DOI](https://zenodo.org/badge/1188978511.svg)](https://doi.org/10.5281/zenodo.19685015)
+
 A lightweight evaluation layer for AI systems built on structured contracts.
 
 This project solves a very common problem in AI applications: teams often judge outputs informally instead of evaluating them against explicit expectations. That makes systems harder to compare, harder to improve, and harder to trust over time.
